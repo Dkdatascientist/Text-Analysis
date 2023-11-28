@@ -1,2 +1,2 @@
-# Text-Analisis
+# Text-Analysis
 Text Analysis with visualizations
